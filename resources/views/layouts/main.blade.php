@@ -1,6 +1,3 @@
-  <script src="https://cdn.tailwindcss.com"></script>
-
-
   <!DOCTYPE html>
   <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
